@@ -1,5 +1,5 @@
 <style>
-  a{margin:5 px;}
+  a{margin: 30px;}
   </style>
 <h1 align="center">Hi😎, I'm Teemu</h1>
 <h3 align="center">I currently study information and communication technology, majoring in web technology</h3>
