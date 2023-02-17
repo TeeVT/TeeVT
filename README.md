@@ -1,7 +1,7 @@
-<b><h1 align="left">Hi😎, I'm Teemu</h1></b>
+<b><h1 align="left">Hi, I'm Teemu😎</h1></b>
 <h3 align="left">I currently study information and communication technology, majoring in web technology</h3>
 <img align="left" src="" alt=""/>
-
+<div align="center">
 <h3 align="left">Programming languages:</h3>
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
@@ -31,3 +31,4 @@
 <h3 align="left">Tools:</h3>
 <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> 
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+</div>
