@@ -1,8 +1,8 @@
-<b><h1 align="left">Hi, I'm Teemu😎</h1></b>
-<h3 align="left">I currently study information and communication technology, majoring in web technology</h3>
-<img align="left" src="" alt=""/>
 <div align="center">
-<h3 align="left">Programming languages:</h3>
+<b><h1 >Hi, I'm Teemu😎</h1></b>
+<h3 >I currently study information and communication technology, majoring in web technology</h3>
+<img align="left" src="" alt=""/>
+<h3>Programming languages:</h3>
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
