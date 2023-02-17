@@ -1,8 +1,7 @@
 <h1 align="center">Hi😎, I'm Teemu</h1>
 <h3 align="center">I currently study information and communication technology, majoring in web technology</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<img align="center" src="" alt=""/>
+<p align="center">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
