@@ -1,7 +1,4 @@
-<style>
-  a{margin: 30px;}
-  </style>
-<h1 align="center">Hi😎, I'm Teemu</h1>
+<b><h1 align="center">Hi😎, I'm Teemu</h1></b>
 <h3 align="center">I currently study information and communication technology, majoring in web technology</h3>
 <img align="center" src="" alt=""/>
 
